@@ -1,2 +1,2 @@
-# Python-pandas
-This repository has the Jupyter notebook related to Python - Pandas
+# Python-Types
+This repository has Jupyter notebook of my work on Python basic covering basic concepts
